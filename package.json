@@ -1,0 +1,17 @@
+{
+  "name": "kmastodon-all",
+  "version": "0.0.1-SNAPSHOT",
+  "main": "kmastodon-all.js",
+  "types": "kmastodon-all.d.ts",
+  "devDependencies": {
+    "typescript": "5.9.2"
+  },
+  "dependencies": {
+    "@js-joda/core": "3.2.0",
+    "format-util": "^1.0.5",
+    "ws": "8.18.0"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
